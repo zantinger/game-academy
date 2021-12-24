@@ -1,0 +1,22 @@
+{
+  "name": "game-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zantinger/game-academy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zantinger/game-academy/issues"
+  },
+  "homepage": "https://github.com/zantinger/game-academy#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
